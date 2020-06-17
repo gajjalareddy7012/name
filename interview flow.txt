@@ -1,3 +1,0 @@
-1. ROles and responsibilites
-2. Project defination, project workflow
-3. DevOps workflow
